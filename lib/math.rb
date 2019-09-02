@@ -2,6 +2,7 @@ def addition_function
   puts "Which numbers would you like to add?"
   @num1 = gets.chomp
   @num2 = gets.chomp
+  @num1 + @num2 == @answer
   
 end
 
