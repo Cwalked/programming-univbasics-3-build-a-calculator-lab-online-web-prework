@@ -3,7 +3,7 @@ def addition_function
   @num1 = gets.chomp
   @num2 = gets.chomp
   @num1 + @num2 == @answer
-  
+  puts "The sum is #{answer}"
 end
 
 def subtraction(num1, num2)
