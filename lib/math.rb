@@ -1,4 +1,5 @@
 def addition_function
+  puts "Which numbers would you like to add?"
   
 end
 
