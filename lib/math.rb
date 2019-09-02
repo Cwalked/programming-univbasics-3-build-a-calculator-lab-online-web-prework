@@ -1,6 +1,6 @@
 def addition_function
   puts "Which numbers would you like to add?"
-  
+  @num1 
 end
 
 def subtraction(num1, num2)
