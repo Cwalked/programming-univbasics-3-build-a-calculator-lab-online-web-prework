@@ -1,9 +1,9 @@
 def addition_function
-  puts "Which numbers would you like to add?"
-  @num1 = gets.chomp
-  @num2 = gets.chomp
-  @num1 + @num2 == @answer
-  puts "The sum is #{answer}"
+ num1 = 5
+ num2 = 4
+ answer = 9
+ num1 + num2 = answer
+ puts #{answer}
 end
 
 def subtraction(num1, num2)
